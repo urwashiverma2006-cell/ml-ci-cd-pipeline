@@ -1,0 +1,32 @@
+#pyhton cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+#virtual environment
+venv/
+env/
+
+#jupyter Notebook checkpointrs
+.ipynb_checkpoints
+
+#data and models(large files)
+data/
+models/
+
+# os files
+.DS_Store
+Thumbs.db
+
+#IDE settings
+.vscode/
+.idea/
+
+
+
+
+
+
+
+
